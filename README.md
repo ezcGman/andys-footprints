@@ -20,6 +20,7 @@ Same as the ESP-12 footprint but again: Made the border on the silk screen short
 
 ## Fuse_1808_4520Metric
 A footprint I made myself (because I couldn't find a matching one in the KiCad library) for these 1808 SMD fuse holders: https://www.aliexpress.com/item/32869829922.html
+
 ![Fuse_1808_4520Metric](https://github.com/ezcGman/andys-footprints/blob/master/pictures/Fuse_1808_4520Metric.png?raw=true)
 ![Fuse_1808_4520Metric Outline](https://github.com/ezcGman/andys-footprints/blob/master/pictures/Fuse_1808_4520Metric-outline.png?raw=true)
 
