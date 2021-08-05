@@ -44,3 +44,6 @@ More copies: `PinHeader_2x04_P2.54mm_Horizontal`. Same story as the other "horiz
 
 ## TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal-removed-extra-holes
 I love changing existing footprints: `TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal`. This one also had two weird extra holes I don't understand what they were for: Deleted them.
+
+## Yoshi-Egg-Small
+Well, a small Yoshi egg. Why? Because I love Yoshi, that's why!
