@@ -1,6 +1,6 @@
-(footprint "esp32_devkit_v1_doit-less-silkscreen" (version 20211014) (generator pcbnew)
+(footprint "ESP32-DevKit-V1-DOIT-Less-SilkScreen" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 620441DF)
+  (tedit 620D8CCF)
   (descr "ESPWROOM32, ESP32, 30 GPIOs version")
   (attr smd)
   (fp_text reference "REF**" (at 0 10.47) (layer "F.SilkS")
