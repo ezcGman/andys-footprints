@@ -30,6 +30,9 @@ Like the ESP-12-Socket, but has two additional pin headers on the bottom to supp
 ## ESP-12-Socket-IO9-10-Cutout
 Again, just shorter silkscreen for allowing an antenna cutout.
 
+## ESP32-DevKit-V1-DOIT-Less-SilkScreen
+Less SilkScreen version of this footprint: https://gitlab.com/VictorLamoine/kicad/-/tree/master/footprints
+
 ## Fuse_1808_4520Metric
 A footprint I made myself (because I couldn't find a matching one in the KiCad library) for these 1808 SMD fuse holders: https://www.aliexpress.com/item/32869829922.html
 
