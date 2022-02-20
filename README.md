@@ -1,3 +1,8 @@
+# !! This repo is archived and has moved !!
+Please see https://github.com/ezcGman/andys-kicad
+
+---
+
 # Andy's Footprints
 While designing some PCBs, I ended up creating a few footprints myself. A few are completely done by myself, a few are just copied and slightly changed from the KiCad library
 
